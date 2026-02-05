@@ -466,10 +466,10 @@ This project is submitted as part of the TrulyMadly GenAI Intern Assignment (24-
 
 ## Author
 
-**Name:** Aman Raj  
+**Name:** Aman Jaiswal 
+**Email:** aerraj50@gmail.com 
 **GitHub:** [@amanraj74](https://github.com/amanraj74)  
-**Repository:** [AI-Operations-Assistant](https://github.com/amanraj74/AI-Operations-Assistant)  
-**Submission Date:** February 5, 2026  
+**Repository:** [AI-Operations-Assistant](https://github.com/amanraj74/AI-Operations-Assistant)    
 **Assignment:** 24-Hour GenAI Intern Technical Assessment
 
 ---
